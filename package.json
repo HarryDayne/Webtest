@@ -1,0 +1,22 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "description": "This is a test project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryDayne/Webtest.git"
+  },
+  "author": "K.Harikaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryDayne/Webtest/issues"
+  },
+  "homepage": "https://github.com/HarryDayne/Webtest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
